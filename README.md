@@ -111,7 +111,6 @@ Key hyperparameters can be configured in the training scripts:
 
 * **Multi-Modal Fusion**: Effectively integrates Sequence, 2D Graph, and 3D Structure information.
 * **Cross-Feature Learning**: Facilitates interaction learning between different feature types.
-* **Adaptive Weighting**: Utilizes gating mechanisms to dynamically adjust feature weights.
 * **Hierarchical Fusion**: Implements a multi-level feature fusion strategy.
 
 ## Evaluation Metrics
